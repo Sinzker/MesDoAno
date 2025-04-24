@@ -63,8 +63,5 @@ public class Main {
             default:
                 System.out.println("Mês não encontrado");
         }
-
-        System.out.println("Testando comites com git e github - terminal");
-
     }
 }
